@@ -1,5 +1,5 @@
 first line.
-ok,master.
+ok
 test文本
 my stupid boss still prefers SVN.
 last line.
