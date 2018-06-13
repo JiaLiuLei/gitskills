@@ -1,4 +1,5 @@
 first line.
+ok,feature1
 test文本
 my stupid boss still prefers SVN.
 last line.
